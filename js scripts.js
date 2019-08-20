@@ -1,7 +1,4 @@
-efunction getAkanName () {
-    let yearofbirth= document.getElementById("year-input").Value;
-    let monthofbirth= document.getElementById("month-nput")Value;
-    let dayofbirth= document.getElementById("day-input")Value;
+
 
 
     let genders = document.getElementById("gender");
