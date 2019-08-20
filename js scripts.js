@@ -7,7 +7,11 @@ function getAkanName () {
     let genders = document.getElementById("gender");
     let i = 0;
 
-  
+    while(i<genders.length){
+        if()genders[i]checked)
+           var mygendervalue = genders[i].Value;
+           i++
+        }
          console.log(mygendervalue);
 
          function monthvalidator() {
