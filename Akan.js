@@ -44,15 +44,15 @@ function submit() {
     }
 
     if (mygendervalue == "male" && monthvalid && dayvalid) {
-        alert("your Akan name is " + maleAkanNames[index]);
+        console.log("your Akan name is " + maleAkanNames[index]);
         return false;
     } else if (mygendervalue == "female" && monthvalid && dayvalid) {
-        alert("your Akan name is " + femaleAkanNames[index]);
+        console.log("your Akan name is " + femaleAkanNames[index]);
         return false;
     } else {
-        alert("you entered an invalid day or month");
+        console.log("you entered an invalid day or month");
     }
-}   
+   
 
 
 

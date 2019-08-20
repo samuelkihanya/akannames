@@ -1,14 +1,14 @@
 function getAkanName () {
-    let yearofbirth= document.getElementById("year-input").Value;
-    let monthofbirth= document.getElementById("month-nput")Value;
-    let dayofbirth= document.getElementById("day-input")Value;
+    let yearofbirth= document.getElementById("dob").Value;
+    let monthofbirth= document.getElementById("month").Value;
+    let dayofbirth= document.getElementById("year").Value;
 
 
-    let genders = document.getElementById("gender");
+    let genders = document.getElementsByName("gender");
     let i = 0;
 
     while(i<genders.length){
-        if()genders[i]checked)
+        if(genders[i]checked)
            var mygendervalue = genders[i].Value;
            i++
         }
