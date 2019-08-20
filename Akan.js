@@ -3,15 +3,6 @@ function submit() {
     let monthofbirth = Number(document.getElementById("month").value);
     let dateofbirth = Number(document.getElementById("year").value);
     let genders = document.getElementsByName('gender');
-
-    function getgender() {
-        for (let gender of genders) {
-            if (gender.checked)
-                return gender.value;
-        }
-    }
-
-
     function dayvalidator() {
         if (dayofbirth < 1 || dayofbirth > 31) {
             return false;
