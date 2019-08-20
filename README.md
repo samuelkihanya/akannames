@@ -9,4 +9,4 @@ project.
 file:///home/sam/Desktop/Akan%20name/index.html# This is the link to the livesite
 https://github.com/samuelkihanya/akanname.git This is the github livesite link
 ##liscence
-This project is under the MIT liscence
+
