@@ -4,6 +4,8 @@ efunction getAkanName () {
     let dayofbirth= document.getElementById("day-input")Value;
 
 
+    let genders = document.getElementById("gender");
+    let i = 0;
 
     while(i<genders.length){
         if()genders[i]checked)
