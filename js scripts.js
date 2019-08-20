@@ -1,14 +1,13 @@
-
+function getAkanName () {
+    let yearofbirth= document.getElementById("year-input").Value;
+    let monthofbirth= document.getElementById("month-nput")Value;
+    let dayofbirth= document.getElementById("day-input")Value;
 
 
     let genders = document.getElementById("gender");
     let i = 0;
 
-    while(i<genders.length){
-        if()genders[i]checked)
-           var mygendervalue = genders[i].Value;
-           i++
-        }
+  
          console.log(mygendervalue);
 
          function monthvalidator() {
