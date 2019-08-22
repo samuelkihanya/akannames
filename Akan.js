@@ -10,7 +10,7 @@ function submit() {
         } else {
             return true;
         }
-    }
+    
 
     }
     let mygendervalue = getgender();
@@ -20,7 +20,8 @@ function submit() {
     let monthvalid = monthvalidator();
     let dayvalid = dayvalidator();
 
-    let dayofweekNumber = Math.floor(((Number(yearOfBirth.slice(0,2))/4)-2*Number(yearOfBirth.slice(0,2)-1)+((5*Number(yearOfBirth.slice(2,4))/4))+((26*(monthOfBirth+1)/10))+dayOfBirth)%7)
+    let dayofweekNumber =Math.abs((d+ Math.floor((2.6*m)-0.2)-(2*c)+y+Math.floor(y/4)+Math.floor(c/4))%7);
+  ss
 
     // let dayofweekNumber = Math.floor((((Number(yearOfbirth.slice(0, 2))/4) - 2* Number(yearOfBirth.slice(0, 2))-1)+((*5Number(yearOfBirth.slice(2,4))/4))+((26*(Number(yearOfBirth.slice(0,2)-1)+((5*Number(yearOfBirth.slice(2,4))/4))+((26*(
 
@@ -52,9 +53,11 @@ function submit() {
     } else {
         console.log("you entered an invalid day or month");
     }
+}    
    
 
 
 
 
 
+                                             x
