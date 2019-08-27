@@ -1,12 +1,22 @@
-# AKAN NAMES
-## Authors name : Samuelkihanya 
-## Intoduction
-This is a project based on the Ghanaian Akan name model whereby one can track his or her 
-birth date easily without much struggle
-##project instruction 
-you may access the project in my repository in the github pages which contains my Akanname 
-project. 
-file:///home/sam/Desktop/Akan%20name/index.html# This is the link to the livesite
-https://github.com/samuelkihanya/akanname.git This is the github livesite link
-##liscence
+# PROJECT NAME 
+akanname
+https://samuelkihanya.github.io/akannames/
+##AUTHORS NAME
+Samuelkihanya
+##INTRODUCTIONS
+This project is derived from the akannames age system whereby one can key in their birthdates and the software displays the designated Names.
+##TECHNOLOGIES USED
+HTML
+CSS 
+JAVASCIPT
+##INSTRUCTIONS ON THE WORKABILITY OF THE PROJECT
+In this project one keys in the dates of birth and in return the akannames
+sysytems gives out the output being the name of the designated birthday holder
+##MY CONTACTS
+email- samuelkiha377@gmail.com
+tel-0710634639
+##LICENSES
+MIT
+##COPYRIGHT
+&&samuelkihanya 2019
 
