@@ -1,22 +1,22 @@
 # PROJECT NAME 
 akanname
 https://samuelkihanya.github.io/akannames/
-##AUTHORS NAME
+## AUTHORS NAME
 Samuelkihanya
-##INTRODUCTIONS
+## INTRODUCTIONS
 This project is derived from the akannames age system whereby one can key in their birthdates and the software displays the designated Names.
-##TECHNOLOGIES USED
+## TECHNOLOGIES USED
 HTML
 CSS 
 JAVASCIPT
-##INSTRUCTIONS ON THE WORKABILITY OF THE PROJECT
+## INSTRUCTIONS ON THE WORKABILITY OF THE PROJECT
 In this project one keys in the dates of birth and in return the akannames
 sysytems gives out the output being the name of the designated birthday holder
-##MY CONTACTS
+## MY CONTACTS
 email- samuelkiha377@gmail.com
 tel-0710634639
-##LICENSES
+## LICENSES
 MIT
-##COPYRIGHT
+## COPYRIGHT
 &&samuelkihanya 2019
 
